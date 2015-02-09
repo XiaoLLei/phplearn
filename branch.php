@@ -5,7 +5,7 @@
 <body>
 
 <div>
-	<p style="font-size: 40px">
+	<p class="p_title">
 		拉分支
 	</p>
 </div>
